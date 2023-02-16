@@ -5,6 +5,17 @@ const variables = css`
     --black: #000;
     --white: #fff;
 
+    --main-color-mint: #59c1bd;
+    --main-color-pink: #f67474;
+    --like-color: #ff3c3c;
+    --content-text-color: #232629;
+    --form-placeholder-color: #959595;
+    --borderbox-line-color: #575757;
+    --inputbox-line-color: #d0d0d0;
+    --inputbox-bg-color: #efefef;
+    --borderbottom-color: #bdbdbd;
+    --subtitle-bg-color: #f8f8f8;
+
     --font-size-xss: 12px;
     --line-hieght-xss: 16px;
     --letter-spacing-xss: -0.005em;
